@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Me
+### About Me:
 I’m a Data Scientist, Economist and Quant living in Houston. My background and interests are:
 
 - Data Science
@@ -43,7 +43,7 @@ I’m a Data Scientist, Economist and Quant living in Houston. My background and
 - Linguistics
 - Computational Linguistics
 
-### Some of my skills
+### Some of my skills:
 - Python
 - R
 - S+
