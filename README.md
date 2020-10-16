@@ -50,7 +50,5 @@ I’m a Data Scientist, Economist and Quant living in Houston. My background and
 - SQL
 - AWS
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Show some ❤️ by starring ⭐️ some of the repositories!
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=marilynle&show_icons=true&hide_border=true)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> If you like some repositories, leave a ⭐️ 
 
